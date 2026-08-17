@@ -38,8 +38,6 @@ target = instruction + 7 + displacement
 
 This makes the state-pointer lookup significantly more resistant to normal executable relocation and address changes.
 
-> The current version still uses the money field offset `0x139CF0`. Future versions may resolve this dynamically as well.
-
 ## Requirements
 
 - Windows
