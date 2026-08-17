@@ -55,12 +55,14 @@ The program uses standard Win32 APIs and does not require external libraries.
 
 ## Usage
 
-1. Start **Ostriv**.
-2. Start the trainer.
-3. The trainer automatically searches for `ostriv.exe`.
-4. The current money amount is displayed.
-5. Enter the desired amount in **New Money**.
-6. Click **Set Money**.
+1. Go to the **Releases** section of this repository.
+2. Download the latest release ZIP file.
+3. Extract the ZIP file and run `OstrivMoneyTrainer.exe`.
+4. Start **Ostriv**.
+5. The trainer automatically searches for `ostriv.exe`.
+6. The current money amount is displayed.
+7. Enter the desired amount in **New Money**.
+8. Click **Set Money**.
 
 The trainer periodically checks the game memory so that the displayed amount follows changes made by the game.
 
